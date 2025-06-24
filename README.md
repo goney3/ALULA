@@ -44,6 +44,9 @@ The application provides real-time estimates for performance, weight & balance, 
 4.  The results will be displayed in the right-hand panel and the graphs will update.
 5.  The "Issues & Feedback" tab provides text-based notes on your design, highlighting potential stability issues or rule violations.
 
+## Disclaimer
+Programmed mainly with Google AI Studio. Use at your own risk! This work is dedicated to the Public Domain. Fly Safe!
+
 ## License
 
 This software is released into the **Public Domain**.
