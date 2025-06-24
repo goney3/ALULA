@@ -9,7 +9,7 @@
 ## Description
 >**alula**
 >[**al**-yuh-luh] noun - _plural alulae_ <br>
->_: "a specialized structure of the upper leading edge of a bird's wing that consists of a tuft of short, stiff flight feathers attached to the movable first wing digit corresponding to the thumb and that facilitates flight, landing, and maneuverability at slow >speeds : bastard wing"_ - “Alula.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/alula. Accessed 24 Jun. 2025.
+>_: "a specialized structure of the upper leading edge of a bird's wing that consists of a tuft of short, stiff flight feathers attached to the movable first wing digit corresponding to the thumb and that facilitates flight, landing, and maneuverability at slow speeds : bastard wing"_ - “Alula.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/alula. Accessed 24 Jun. 2025.
 
 ALULA (Accessible Learning Ultralight Layout Assistant) is a simple, offline desktop tool for the preliminary design and analysis of single-seat ultralight aircraft. It is intended to help hobbyists and amateur builders explore design concepts while considering the rules of FAA FAR Part 103.
 
