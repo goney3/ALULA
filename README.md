@@ -1,8 +1,8 @@
 # ALULA - Accessible Learning Ultralight Layout Assistant
 
-**Version:** 0.18  
+**Version:** 0.19  
 **Author:** Keith F. - Ultralight Airplane Workshop  
-**Date:** 2025-06-21
+**Date:** 2025-07-01
 
 ![Screenshot 2025-06-21 195830](https://github.com/user-attachments/assets/93d363a7-4159-4f64-bd96-ac8d59a92e1c)
 
