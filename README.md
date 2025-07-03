@@ -32,10 +32,10 @@ The application provides real-time estimates for performance, weight & balance, 
 ## How to Run
 
 1.  Make sure you have Python 3 installed on your system.
-2.  Download the `ALULA-0.18.py` file.
+2.  Download the `ALULA.py` file.
 3.  Run the file from your terminal:
     ```bash
-    python ALULA-0.18.py
+    python ALULA.py
     ```
     Alternatively, you may be able to run it by double-clicking the file, depending on your system's configuration.
 
